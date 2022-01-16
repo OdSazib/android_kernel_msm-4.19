@@ -1,6 +1,5 @@
 #include "pm660.dtsi"
 #include "pm660l.dtsi"
-#include "pm660-rpm-regulator.dtsi"
 #include "sdm660-regulator.dtsi"
 #include "sdm660-thermal.dtsi"
 #include "sdm660-common.dtsi"
